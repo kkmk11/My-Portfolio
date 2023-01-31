@@ -44,9 +44,7 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
-/*--------------------------------------------------------------
-# Header
---------------------------------------------------------------*/
+
 #header {
   transition: ease-in-out 0.3s;
   position: relative;
@@ -138,7 +136,6 @@ h6 {
   }
 }
 
-/* Header Top */
 #header.header-top {
   height: 80px;
   position: fixed;
@@ -177,12 +174,7 @@ h6 {
   }
 }
 
-/*--------------------------------------------------------------
-# Navigation Menu
---------------------------------------------------------------*/
-/**
-* Desktop Navigation 
-*/
+
 .navbar {
   padding: 0;
   margin-top: 35px;
@@ -252,9 +244,7 @@ h6 {
   color: #fff;
 }
 
-/**
-* Mobile Navigation 
-*/
+
 .mobile-nav-toggle {
   color: #fff;
   font-size: 28px;
@@ -323,9 +313,6 @@ h6 {
   position: relative;
 }
 
-/*--------------------------------------------------------------
-# Sections General
---------------------------------------------------------------*/
 section {
   overflow: hidden;
   position: absolute;
@@ -390,9 +377,7 @@ section .container {
   color: #fff;
 }
 
-/*--------------------------------------------------------------
-# About
---------------------------------------------------------------*/
+
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
@@ -425,10 +410,6 @@ section .container {
   margin-bottom: 0;
 }
 
-
-/*--------------------------------------------------------------
-# Skills
---------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
   display: block;
@@ -462,9 +443,7 @@ section .container {
   background-color: #18d26e;
 }
 
-/*--------------------------------------------------------------
-# Interests
---------------------------------------------------------------*/
+
 .interests .icon-box {
   display: flex;
   align-items: center;
@@ -493,9 +472,7 @@ section .container {
 }
 
 
-/*--------------------------------------------------------------
-# Resume
---------------------------------------------------------------*/
+
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
@@ -555,9 +532,7 @@ section .container {
 }
 
 
-/*--------------------------------------------------------------
-# Contact
---------------------------------------------------------------*/
+
 .contact .info-box {
   color: #444444;
   padding: 20px;
